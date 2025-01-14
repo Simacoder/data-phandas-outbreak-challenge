@@ -52,7 +52,7 @@ git clone https://github.com/Simacoder/data-phandas-outbreak-challenge.git
 2. Navigate to the project directory:
 
 ```bash
-cd OutsmartingOutbreaks
+cd data-phandas-outbreak-challenge
 ```
 
 3. Create a virtual environment and activate it:
@@ -100,7 +100,6 @@ Our best-performing model achieved:
 - **MAE:** 3.4
 
 
-[Include a brief summary of key findings, challenges faced, and lessons learned.]
 
 ---
 
@@ -122,7 +121,7 @@ The project uses the following libraries:
 - scikit-learn
 - matplotlib
 - seaborn
-- [Add others as needed]
+
 
 You can install all dependencies using the `requirements.txt` file:
 
