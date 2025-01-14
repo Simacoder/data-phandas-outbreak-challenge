@@ -86,7 +86,7 @@ Our approach to the challenge includes:
    - Tuning hyperparameters to optimize model performance.
 
 4. **Evaluation:**
-   - Using metrics such as [Insert Metric(s)] to assess model accuracy and reliability.
+   - Using metrics such as Mean Absolute Error  to assess model accuracy and reliability.
 
 5. **Deployment:**
    - Packaging the final solution for easy submission and potential real-world applications.
